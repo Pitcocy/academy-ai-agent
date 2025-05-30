@@ -1,0 +1,197 @@
+event_month,channel_grouping,source,medium,campaign_name,sessions,engaged_sessions,engagement_rate,conversions,total_users,new_users,event_count
+2023-01-01,direct,(direct),(none),(not set),3912,2507,0.6408,154,3099,952,21863
+2023-01-01,google / cpc,google,cpc,google_cpc_campaign_2,1714,1078,0.6289,73,1486,500,14348
+2023-01-01,google / cpc,google,cpc,google_cpc_campaign_3,1835,1089,0.5935,79,1443,300,10976
+2023-01-01,google / cpc,google,cpc,google_cpc_campaign_1,909,635,0.6986,47,748,273,6803
+2023-01-01,google / cpc,google,cpc,google_cpc_campaign_5,963,695,0.7217,28,679,292,9396
+2023-01-01,google / cpc,google,cpc,google_cpc_campaign_4,713,548,0.7686,33,564,70,3302
+2023-01-01,google / organic,google,organic,(not set),5213,3370,0.6465,242,4251,1124,37245
+2023-02-01,direct,(direct),(none),(not set),2977,1866,0.6268,140,2390,628,17937
+2023-02-01,google / cpc,google,cpc,google_cpc_campaign_4,529,317,0.5992,23,396,91,6073
+2023-02-01,google / cpc,google,cpc,google_cpc_campaign_1,1490,1000,0.6711,86,1290,391,6238
+2023-02-01,google / cpc,google,cpc,google_cpc_campaign_5,1809,1072,0.5926,76,1419,413,15850
+2023-02-01,google / cpc,google,cpc,google_cpc_campaign_3,1208,617,0.5108,55,938,305,7846
+2023-02-01,google / cpc,google,cpc,google_cpc_campaign_2,361,237,0.6565,13,291,60,3121
+2023-02-01,google / organic,google,organic,(not set),4607,2775,0.6023,221,3787,1212,30769
+2023-03-01,direct,(direct),(none),(not set),3398,2132,0.6274,131,2607,802,20560
+2023-03-01,google / cpc,google,cpc,google_cpc_campaign_5,1470,891,0.6061,44,1220,355,5895
+2023-03-01,google / cpc,google,cpc,google_cpc_campaign_2,1687,1177,0.6977,96,1086,413,10090
+2023-03-01,google / cpc,google,cpc,google_cpc_campaign_4,789,463,0.5868,56,561,107,8252
+2023-03-01,google / cpc,google,cpc,google_cpc_campaign_3,1499,764,0.5097,80,1311,453,8479
+2023-03-01,google / cpc,google,cpc,google_cpc_campaign_1,1003,633,0.6311,38,756,220,5801
+2023-03-01,google / organic,google,organic,(not set),5092,3198,0.628,284,3844,1296,39397
+2023-04-01,direct,(direct),(none),(not set),3135,2141,0.6829,155,2558,684,17986
+2023-04-01,google / cpc,google,cpc,google_cpc_campaign_4,1352,824,0.6095,65,1178,335,8685
+2023-04-01,google / cpc,google,cpc,google_cpc_campaign_1,1264,782,0.6187,79,918,192,9607
+2023-04-01,google / cpc,google,cpc,google_cpc_campaign_2,842,486,0.5772,46,712,238,5835
+2023-04-01,google / cpc,google,cpc,google_cpc_campaign_3,1303,733,0.5625,34,979,252,11036
+2023-04-01,google / cpc,google,cpc,google_cpc_campaign_5,980,619,0.6316,55,739,112,6218
+2023-04-01,google / organic,google,organic,(not set),5406,3586,0.6633,243,4283,1306,31587
+2023-05-01,direct,(direct),(none),(not set),3539,2331,0.6587,176,2750,759,19889
+2023-05-01,google / cpc,google,cpc,google_cpc_campaign_5,1088,724,0.6654,43,790,265,5283
+2023-05-01,google / cpc,google,cpc,google_cpc_campaign_4,1566,936,0.5977,86,1148,380,7866
+2023-05-01,google / cpc,google,cpc,google_cpc_campaign_2,2272,1344,0.5915,72,1757,625,12080
+2023-05-01,google / cpc,google,cpc,google_cpc_campaign_1,1255,830,0.6614,79,1047,429,5932
+2023-05-01,google / cpc,google,cpc,google_cpc_campaign_3,307,197,0.6417,21,277,100,1864
+2023-05-01,google / organic,google,organic,(not set),4979,3344,0.6716,243,3888,1274,34209
+2023-06-01,direct,(direct),(none),(not set),3160,2041,0.6459,148,2467,793,16900
+2023-06-01,google / cpc,google,cpc,google_cpc_campaign_4,1369,960,0.7012,67,989,300,9492
+2023-06-01,google / cpc,google,cpc,google_cpc_campaign_5,1896,1171,0.6176,76,1399,519,10436
+2023-06-01,google / cpc,google,cpc,google_cpc_campaign_1,392,228,0.5816,17,359,95,3800
+2023-06-01,google / cpc,google,cpc,google_cpc_campaign_3,1437,849,0.5908,75,1203,424,6676
+2023-06-01,google / cpc,google,cpc,google_cpc_campaign_2,895,617,0.6894,56,734,179,7486
+2023-06-01,google / organic,google,organic,(not set),5553,3503,0.6308,241,4616,1530,31504
+2023-07-01,direct,(direct),(none),(not set),3364,2041,0.6067,154,2555,860,15383
+2023-07-01,google / cpc,google,cpc,google_cpc_campaign_5,2076,1395,0.672,64,1684,453,11847
+2023-07-01,google / cpc,google,cpc,google_cpc_campaign_2,314,212,0.6752,17,272,70,3629
+2023-07-01,google / cpc,google,cpc,google_cpc_campaign_3,1646,1075,0.6531,97,1221,380,8023
+2023-07-01,google / cpc,google,cpc,google_cpc_campaign_1,1497,988,0.66,73,1254,251,7679
+2023-07-01,google / cpc,google,cpc,google_cpc_campaign_4,996,688,0.6908,70,759,297,6662
+2023-07-01,google / organic,google,organic,(not set),5397,3642,0.6748,311,4165,1270,30226
+2023-08-01,direct,(direct),(none),(not set),3320,2117,0.6377,185,2629,813,17304
+2023-08-01,google / cpc,google,cpc,google_cpc_campaign_5,1676,1119,0.6677,102,1435,412,9873
+2023-08-01,google / cpc,google,cpc,google_cpc_campaign_4,1940,1157,0.5964,99,1520,433,12991
+2023-08-01,google / cpc,google,cpc,google_cpc_campaign_3,836,512,0.6124,48,634,213,6567
+2023-08-01,google / cpc,google,cpc,google_cpc_campaign_2,545,416,0.7633,35,396,119,4226
+2023-08-01,google / cpc,google,cpc,google_cpc_campaign_1,648,447,0.6898,27,491,158,3256
+2023-08-01,google / organic,google,organic,(not set),5126,3547,0.692,277,3780,1053,35906
+2023-09-01,direct,(direct),(none),(not set),2938,2129,0.7246,187,2296,673,16445
+2023-09-01,google / cpc,google,cpc,google_cpc_campaign_5,1036,758,0.7317,44,765,234,7958
+2023-09-01,google / cpc,google,cpc,google_cpc_campaign_1,1145,748,0.6533,33,864,248,8306
+2023-09-01,google / cpc,google,cpc,google_cpc_campaign_4,803,502,0.6252,42,656,140,5554
+2023-09-01,google / cpc,google,cpc,google_cpc_campaign_2,1530,1016,0.6641,91,1248,453,8178
+2023-09-01,google / cpc,google,cpc,google_cpc_campaign_3,560,403,0.7196,40,427,146,6357
+2023-09-01,google / organic,google,organic,(not set),4695,3004,0.6398,203,3762,1089,29285
+2023-10-01,direct,(direct),(none),(not set),2945,1947,0.6611,155,2393,693,20355
+2023-10-01,google / cpc,google,cpc,google_cpc_campaign_5,861,503,0.5842,22,666,170,9088
+2023-10-01,google / cpc,google,cpc,google_cpc_campaign_4,779,474,0.6085,48,637,206,5587
+2023-10-01,google / cpc,google,cpc,google_cpc_campaign_2,1440,868,0.6028,61,1052,321,10219
+2023-10-01,google / cpc,google,cpc,google_cpc_campaign_3,1109,727,0.6555,34,879,280,8681
+2023-10-01,google / cpc,google,cpc,google_cpc_campaign_1,1490,1076,0.7221,91,1270,431,5982
+2023-10-01,google / organic,google,organic,(not set),4078,2555,0.6265,210,3362,831,38912
+2023-11-01,direct,(direct),(none),(not set),2793,1691,0.6054,100,2213,538,17553
+2023-11-01,google / cpc,google,cpc,google_cpc_campaign_5,2402,1396,0.5812,97,1931,498,18400
+2023-11-01,google / cpc,google,cpc,google_cpc_campaign_3,876,619,0.7066,47,761,154,6822
+2023-11-01,google / cpc,google,cpc,google_cpc_campaign_4,1058,719,0.6796,49,902,305,8717
+2023-11-01,google / cpc,google,cpc,google_cpc_campaign_1,447,276,0.6174,10,385,171,3222
+2023-11-01,google / cpc,google,cpc,google_cpc_campaign_2,673,450,0.6686,54,469,139,8465
+2023-11-01,google / organic,google,organic,(not set),4845,3162,0.6526,218,3921,1269,34969
+2023-12-01,direct,(direct),(none),(not set),3083,1918,0.6221,147,2409,692,22122
+2023-12-01,google / cpc,google,cpc,google_cpc_campaign_5,2012,1306,0.6491,84,1689,382,11746
+2023-12-01,google / cpc,google,cpc,google_cpc_campaign_2,919,480,0.5223,48,788,302,10349
+2023-12-01,google / cpc,google,cpc,google_cpc_campaign_3,399,280,0.7018,15,277,100,4398
+2023-12-01,google / cpc,google,cpc,google_cpc_campaign_1,862,620,0.7193,43,769,275,4788
+2023-12-01,google / cpc,google,cpc,google_cpc_campaign_4,1299,868,0.6682,63,985,250,12533
+2023-12-01,google / organic,google,organic,(not set),5461,3454,0.6325,252,4254,1280,42926
+2024-01-01,direct,(direct),(none),(not set),3166,1972,0.6229,160,2548,825,23037
+2024-01-01,google / cpc,google,cpc,google_cpc_campaign_3,1315,861,0.6548,53,1152,369,11179
+2024-01-01,google / cpc,google,cpc,google_cpc_campaign_5,667,487,0.7301,41,483,181,4874
+2024-01-01,google / cpc,google,cpc,google_cpc_campaign_4,1145,816,0.7127,62,900,261,5547
+2024-01-01,google / cpc,google,cpc,google_cpc_campaign_1,1844,1318,0.7148,53,1371,411,12287
+2024-01-01,google / cpc,google,cpc,google_cpc_campaign_2,1015,583,0.5744,19,752,251,10902
+2024-01-01,google / organic,google,organic,(not set),4624,2974,0.6432,223,3772,1134,38591
+2024-02-01,direct,(direct),(none),(not set),2920,1908,0.6534,151,2257,659,20024
+2024-02-01,google / cpc,google,cpc,google_cpc_campaign_3,1120,848,0.7571,77,924,292,5924
+2024-02-01,google / cpc,google,cpc,google_cpc_campaign_5,1632,1306,0.8002,108,1244,394,7839
+2024-02-01,google / cpc,google,cpc,google_cpc_campaign_2,1220,815,0.668,71,971,308,7926
+2024-02-01,google / cpc,google,cpc,google_cpc_campaign_1,1038,818,0.7881,39,783,281,6942
+2024-02-01,google / cpc,google,cpc,google_cpc_campaign_4,1704,1115,0.6543,26,1295,310,10196
+2024-02-01,google / organic,google,organic,(not set),5398,3392,0.6284,279,4150,1211,35620
+2024-03-01,direct,(direct),(none),(not set),3414,2285,0.6693,165,2627,853,23681
+2024-03-01,google / cpc,google,cpc,google_cpc_campaign_2,1213,820,0.676,65,853,152,6701
+2024-03-01,google / cpc,google,cpc,google_cpc_campaign_3,3442,2106,0.6119,151,2712,968,15934
+2024-03-01,google / cpc,google,cpc,google_cpc_campaign_5,558,406,0.7276,43,406,121,4895
+2024-03-01,google / cpc,google,cpc,google_cpc_campaign_4,1345,863,0.6416,72,997,328,5786
+2024-03-01,google / cpc,google,cpc,google_cpc_campaign_1,1072,590,0.5504,38,718,230,4901
+2024-03-01,google / organic,google,organic,(not set),5734,3862,0.6735,325,4420,1268,38040
+2024-04-01,direct,(direct),(none),(not set),3317,2253,0.6792,152,2645,749,19240
+2024-04-01,google / cpc,google,cpc,google_cpc_campaign_5,1599,1191,0.7448,91,1202,315,5390
+2024-04-01,google / cpc,google,cpc,google_cpc_campaign_2,1429,840,0.5878,47,1148,405,8495
+2024-04-01,google / cpc,google,cpc,google_cpc_campaign_4,2443,1521,0.6226,111,1974,618,13244
+2024-04-01,google / cpc,google,cpc,google_cpc_campaign_1,1085,751,0.6922,19,859,272,6210
+2024-04-01,google / cpc,google,cpc,google_cpc_campaign_3,767,540,0.704,68,604,151,5151
+2024-04-01,google / organic,google,organic,(not set),5766,3645,0.6322,290,4524,1300,34573
+2024-05-01,direct,(direct),(none),(not set),3451,2120,0.6143,162,2761,824,18444
+2024-05-01,google / cpc,google,cpc,google_cpc_campaign_5,1990,1125,0.5653,98,1591,487,9156
+2024-05-01,google / cpc,google,cpc,google_cpc_campaign_3,1691,940,0.5559,75,1381,414,10159
+2024-05-01,google / cpc,google,cpc,google_cpc_campaign_2,1052,747,0.7101,44,922,282,4623
+2024-05-01,google / cpc,google,cpc,google_cpc_campaign_1,432,353,0.8171,18,343,62,2192
+2024-05-01,google / cpc,google,cpc,google_cpc_campaign_4,1262,841,0.6664,100,1007,248,9222
+2024-05-01,google / organic,google,organic,(not set),5356,3364,0.6281,246,4205,1225,32727
+2024-06-01,direct,(direct),(none),(not set),3353,2097,0.6254,133,2630,775,17504
+2024-06-01,google / cpc,google,cpc,google_cpc_campaign_3,1723,1020,0.592,76,1423,391,6939
+2024-06-01,google / cpc,google,cpc,google_cpc_campaign_5,1515,862,0.569,88,1246,394,10257
+2024-06-01,google / cpc,google,cpc,google_cpc_campaign_1,1266,692,0.5466,71,1019,201,7583
+2024-06-01,google / cpc,google,cpc,google_cpc_campaign_2,470,271,0.5766,24,303,84,2085
+2024-06-01,google / cpc,google,cpc,google_cpc_campaign_4,1352,844,0.6243,62,1071,360,7544
+2024-06-01,google / organic,google,organic,(not set),4840,2854,0.5897,202,3913,1188,34609
+2024-07-01,direct,(direct),(none),(not set),2644,1674,0.6331,142,2140,601,16441
+2024-07-01,google / cpc,google,cpc,google_cpc_campaign_3,526,333,0.6331,18,468,136,5297
+2024-07-01,google / cpc,google,cpc,google_cpc_campaign_2,1332,946,0.7102,62,1116,339,5667
+2024-07-01,google / cpc,google,cpc,google_cpc_campaign_1,1656,997,0.6021,54,1135,349,4902
+2024-07-01,google / cpc,google,cpc,google_cpc_campaign_5,1350,811,0.6007,67,1187,321,4058
+2024-07-01,google / cpc,google,cpc,google_cpc_campaign_4,1814,1148,0.6329,84,1465,507,13869
+2024-07-01,google / organic,google,organic,(not set),5053,3100,0.6135,239,4092,1187,34683
+2024-08-01,direct,(direct),(none),(not set),2898,1780,0.6142,153,2329,689,18763
+2024-08-01,google / cpc,google,cpc,google_cpc_campaign_3,524,394,0.7519,38,481,71,4203
+2024-08-01,google / cpc,google,cpc,google_cpc_campaign_1,1178,787,0.6681,74,958,240,10880
+2024-08-01,google / cpc,google,cpc,google_cpc_campaign_4,215,161,0.7488,6,155,29,3001
+2024-08-01,google / cpc,google,cpc,google_cpc_campaign_5,1456,757,0.5199,51,1203,405,9445
+2024-08-01,google / cpc,google,cpc,google_cpc_campaign_2,895,716,0.8,51,721,172,6824
+2024-08-01,google / organic,google,organic,(not set),4704,2984,0.6344,251,3912,1075,31779
+2024-09-01,direct,(direct),(none),(not set),2836,1928,0.6798,147,2311,663,17435
+2024-09-01,google / cpc,google,cpc,google_cpc_campaign_2,882,530,0.6009,57,714,140,10312
+2024-09-01,google / cpc,google,cpc,google_cpc_campaign_5,1715,1050,0.6122,63,1276,342,9526
+2024-09-01,google / cpc,google,cpc,google_cpc_campaign_1,1204,747,0.6204,47,988,228,10200
+2024-09-01,google / cpc,google,cpc,google_cpc_campaign_4,1069,769,0.7194,75,845,245,7549
+2024-09-01,google / cpc,google,cpc,google_cpc_campaign_3,169,139,0.8225,9,147,27,2614
+2024-09-01,google / organic,google,organic,(not set),4879,3115,0.6385,221,3616,1095,33551
+2024-10-01,direct,(direct),(none),(not set),2983,1893,0.6346,121,2321,718,22962
+2024-10-01,google / cpc,google,cpc,google_cpc_campaign_2,976,542,0.5553,47,702,162,8464
+2024-10-01,google / cpc,google,cpc,google_cpc_campaign_1,1274,752,0.5903,69,933,259,9416
+2024-10-01,google / cpc,google,cpc,google_cpc_campaign_4,1126,769,0.6829,45,948,321,10997
+2024-10-01,google / cpc,google,cpc,google_cpc_campaign_5,1439,836,0.581,74,1064,356,6080
+2024-10-01,google / cpc,google,cpc,google_cpc_campaign_3,660,420,0.6364,41,541,145,4737
+2024-10-01,google / organic,google,organic,(not set),5313,3256,0.6128,231,4389,1418,40363
+2024-11-01,direct,(direct),(none),(not set),2839,1742,0.6136,143,2211,702,22458
+2024-11-01,google / cpc,google,cpc,google_cpc_campaign_1,954,642,0.673,51,757,169,7717
+2024-11-01,google / cpc,google,cpc,google_cpc_campaign_2,562,381,0.6779,12,458,137,4648
+2024-11-01,google / cpc,google,cpc,google_cpc_campaign_3,963,731,0.7591,21,662,197,4322
+2024-11-01,google / cpc,google,cpc,google_cpc_campaign_5,2276,1537,0.6753,135,1890,575,10209
+2024-11-01,google / cpc,google,cpc,google_cpc_campaign_4,879,545,0.62,41,704,203,10194
+2024-11-01,google / organic,google,organic,(not set),4484,2693,0.6006,207,3518,1010,30471
+2024-12-01,direct,(direct),(none),(not set),2900,1764,0.6083,135,2280,656,21684
+2024-12-01,google / cpc,google,cpc,google_cpc_campaign_1,485,292,0.6021,22,368,93,5528
+2024-12-01,google / cpc,google,cpc,google_cpc_campaign_2,1143,859,0.7515,96,887,286,8642
+2024-12-01,google / cpc,google,cpc,google_cpc_campaign_3,1434,1014,0.7071,70,1031,279,10182
+2024-12-01,google / cpc,google,cpc,google_cpc_campaign_4,1013,706,0.6969,55,755,183,12029
+2024-12-01,google / cpc,google,cpc,google_cpc_campaign_5,1133,743,0.6558,57,915,288,10661
+2024-12-01,google / organic,google,organic,(not set),4733,3165,0.6687,251,3946,1180,36176
+2025-01-01,direct,(direct),(none),(not set),3426,2244,0.655,191,2680,691,24489
+2025-01-01,google / cpc,google,cpc,google_cpc_campaign_2,2023,1279,0.6322,75,1622,305,12541
+2025-01-01,google / cpc,google,cpc,google_cpc_campaign_4,1336,836,0.6257,79,1112,272,8279
+2025-01-01,google / cpc,google,cpc,google_cpc_campaign_5,1404,836,0.5954,43,1195,334,8639
+2025-01-01,google / cpc,google,cpc,google_cpc_campaign_1,665,418,0.6286,35,567,186,7305
+2025-01-01,google / cpc,google,cpc,google_cpc_campaign_3,892,639,0.7164,36,692,152,4949
+2025-01-01,google / organic,google,organic,(not set),5226,3172,0.607,228,4141,1084,40543
+2025-02-01,direct,(direct),(none),(not set),2789,1752,0.6282,137,2219,673,18619
+2025-02-01,google / cpc,google,cpc,google_cpc_campaign_1,890,597,0.6708,35,765,127,8026
+2025-02-01,google / cpc,google,cpc,google_cpc_campaign_2,1294,798,0.6167,80,883,289,7164
+2025-02-01,google / cpc,google,cpc,google_cpc_campaign_4,1946,1330,0.6835,114,1643,538,9856
+2025-02-01,google / cpc,google,cpc,google_cpc_campaign_3,789,410,0.5196,27,622,239,6173
+2025-02-01,google / cpc,google,cpc,google_cpc_campaign_5,1398,1005,0.7189,70,1188,276,5711
+2025-02-01,google / organic,google,organic,(not set),5252,3416,0.6504,242,4183,1252,32351
+2025-03-01,direct,(direct),(none),(not set),3643,2418,0.6637,142,2831,844,23758
+2025-03-01,google / cpc,google,cpc,google_cpc_campaign_5,1499,789,0.5264,66,1120,359,9720
+2025-03-01,google / cpc,google,cpc,google_cpc_campaign_1,789,418,0.5298,27,586,173,6511
+2025-03-01,google / cpc,google,cpc,google_cpc_campaign_3,1307,806,0.6167,50,909,215,10918
+2025-03-01,google / cpc,google,cpc,google_cpc_campaign_4,827,456,0.5514,32,608,144,3500
+2025-03-01,google / cpc,google,cpc,google_cpc_campaign_2,1523,1025,0.673,87,1157,409,12194
+2025-03-01,google / organic,google,organic,(not set),4887,3367,0.689,245,3879,1137,38392
+2025-04-01,direct,(direct),(none),(not set),3515,2244,0.6384,156,2882,752,19104
+2025-04-01,google / cpc,google,cpc,google_cpc_campaign_1,2293,1640,0.7152,154,1889,486,14444
+2025-04-01,google / cpc,google,cpc,google_cpc_campaign_4,1529,1017,0.6651,61,1254,469,6489
+2025-04-01,google / cpc,google,cpc,google_cpc_campaign_5,2005,1384,0.6903,100,1645,582,11169
+2025-04-01,google / cpc,google,cpc,google_cpc_campaign_2,405,198,0.4889,20,343,54,3064
+2025-04-01,google / cpc,google,cpc,google_cpc_campaign_3,620,389,0.6274,46,495,205,1680
+2025-04-01,google / organic,google,organic,(not set),5382,3294,0.612,218,4139,1241,31553
