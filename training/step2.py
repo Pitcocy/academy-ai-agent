@@ -4,11 +4,11 @@ from google.adk.tools import google_search
 root_agent = LlmAgent(
     name="coordinator_agent",
     model="gemini-2.0-flash",
-    description="An agent that can answer basic questions and delegate tasks to other agents",
+    description="A Google Search Agent",
     instruction="""
-    You are a coordinator agent that talks with the user and answer it's questions
-    If the user asks you to search something on Google use the search_agent tool""",
-    tools=[google_search],
+    You are a Google Search Agent that can search the web for information.
+    You can use the google_search tool to search the web.""",
+    tools=[google_search]
 )
 
 

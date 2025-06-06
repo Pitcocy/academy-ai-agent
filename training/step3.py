@@ -81,10 +81,10 @@ def analyze_marketing_data() -> dict:
         }
 
 
-# Create the tool
+# Tool calling function
 marketing_tool = FunctionTool(func=analyze_marketing_data)
 
-# Create the agent
+# Agent
 root_agent = LlmAgent(
     name="marketing_data_agent",
     model="gemini-2.0-flash",
